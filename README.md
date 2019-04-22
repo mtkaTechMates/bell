@@ -1,4 +1,5 @@
 # Minnetonka Bell Schedule Countdown
+Forked from nicolaschan
 # For digital displays
 [![Build Status](https://img.shields.io/travis/nicolaschan/bell.svg)](https://travis-ci.org/nicolaschan/bell)
 [![codecov.io](https://img.shields.io/codecov/c/github/nicolaschan/bell/master.svg)](https://codecov.io/github/nicolaschan/bell?branch=master)
