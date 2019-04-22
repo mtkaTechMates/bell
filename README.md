@@ -1,4 +1,5 @@
-# Bell Schedule Countdown
+# Minnetonka Bell Schedule Countdown
+# For digital displays
 [![Build Status](https://img.shields.io/travis/nicolaschan/bell.svg)](https://travis-ci.org/nicolaschan/bell)
 [![codecov.io](https://img.shields.io/codecov/c/github/nicolaschan/bell/master.svg)](https://codecov.io/github/nicolaschan/bell?branch=master)
 [![codebeat badge](https://codebeat.co/badges/aaca5932-6582-4334-a487-91680d43a994)](https://codebeat.co/projects/github-com-nicolaschan-bell-master)
@@ -19,7 +20,7 @@ Bell is a **synchronized timer that counts down to the next time the bell rings 
 - Periodic announcements about the status of the website are posted to [blog.bell.plus](https://blog.bell.plus). 
 - Usage statistics are available at [bell.plus/stats](https://bell.plus/stats).
 
-**_As seen in [The Talon](https://web.archive.org/web/20181211080504/https://lahstalon.org/senior-creates-website-for-bell-schedule/), the Los Altos High School student newspaper_**
+
 
 ## Features
 - Support for weekly schedules
